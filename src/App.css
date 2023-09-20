@@ -1,0 +1,15 @@
+i{
+  color: 'white';
+}
+body{
+  background-color: black;
+  font-family: 'Lato', sans-serif;
+}
+/* *{
+  margin: 0;
+  padding: 0;
+} */
+p{
+  font-size: 18px;
+  font-weight: lighter;
+}
